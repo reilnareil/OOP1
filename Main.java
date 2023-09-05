@@ -4,5 +4,6 @@ public class Main {
 
         Person p = new Person("Franco", "Masbate", 150, 20);
         System.out.print(p.IQ);
+        System.out.print(p.address);
     }
 }
